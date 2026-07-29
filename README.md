@@ -15,7 +15,7 @@ When a paper is published externally, its full text is added here with a canonic
 | # | Title | Status | Registered |
 |---|---|---|---|
 | 002 | When Everyone Can Design a Hotel, Judgment Becomes the Luxury | Completed · privately held · available to editors | 2026-07-28 |
-| 001 | I Learned Architecture Before Machines Learned to Imagine It | In progress | — |
+| 001 | I Learned Architecture Before Machines Learned to Imagine It | Completed · privately held · available to editors | 2026-07-28 |
 | 003 | The Rendering Is the Easy Part | In progress | — |
 | 004 | Boutique Hospitality After Infinite Aesthetics | In progress | — |
 
