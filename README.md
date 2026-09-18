@@ -1,4 +1,4 @@
-# Rootherhub Papers — Public Registry
+# Rootherhub Papers: Public Registry
 
 Editorial papers by **Jair Ibarra** (Rootherhub) on architecture, hospitality, operations, and human judgment after image-making became automated.
 
@@ -6,7 +6,7 @@ Editorial papers by **Jair Ibarra** (Rootherhub) on architecture, hospitality, o
 
 Every completed paper is registered here with its title, abstract, authorship, completion date, and the **SHA-256 fingerprint** of the exact approved manuscript file. The fingerprint plus the git commit timestamp is verifiable proof that the complete text existed in that form on the registered date.
 
-As of September 17, 2026 the author self-publishes here. A published paper's entry carries its full text, and the byte-exact approved master sits in `manuscripts/` so the fingerprint can be reproduced. Papers registered but not yet published remain privately held.
+As of September 17, 2026 the author self-publishes here. A published paper's entry carries its full text, and the byte-exact approved master sits in `manuscripts/` so the fingerprint can be reproduced. Papers registered but not yet published remain privately held. Revisions to a published paper are registered as a new version with a new fingerprint; the prior fingerprint stays in the paper's amendment record and in git history.
 
 **Verification:** `sha256sum manuscripts/<paper>.master.md` must reproduce the fingerprint recorded in that paper's entry at the commit in which it was registered. The fingerprint of a published paper never changes; a revision would be registered as a new version with its own fingerprint and the prior one kept in git history.
 
@@ -17,7 +17,7 @@ As of September 17, 2026 the author self-publishes here. A published paper's ent
 | 001 | [I Learned Architecture Before Machines Learned to Imagine It](papers/001-learned-architecture-before-machines.md) | Public · full text | 2026-07-28 | 2026-09-17 |
 | 002 | [When Everyone Can Design a Hotel, Judgment Becomes the Luxury](papers/002-when-everyone-can-design-a-hotel.md) | Public · full text | 2026-07-28 | 2026-09-17 |
 | 003 | [The Author Was Never in the Folder](papers/003-the-author-was-never-in-the-folder.md) | Public · full text | 2026-08-08 | 2026-09-17 |
-| 004 | Boutique Hospitality After Infinite Aesthetics | In progress | — | — |
+| 004 | Boutique Hospitality After Infinite Aesthetics | In progress | not yet | not yet |
 
 ## Authorship
 
