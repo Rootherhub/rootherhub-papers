@@ -23,7 +23,7 @@ As of September 17, 2026 the author self-publishes here. A published paper's ent
 
 ## Authorship
 
-Jair Ibarra is the author of every paper here: the argument, the experience it draws on, the judgment, and the final voice are his. AI tools are used as editorial instruments in the process. See [AUTHORSHIP.md](AUTHORSHIP.md) for the disclosure in full.
+Jair Ibarra is the author of every paper here: the argument, the experience it draws on, the judgment, and the final voice are his. The practice uses AI tools as editorial instruments; every paper is finished by hand. See [AUTHORSHIP.md](AUTHORSHIP.md).
 
 ## Archive and citation
 
