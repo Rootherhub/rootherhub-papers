@@ -1,5 +1,7 @@
 # Rootherhub Papers: Public Registry
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22823361.svg)](https://doi.org/10.5281/zenodo.22823361)
+
 Editorial papers by **Jair Ibarra** (Rootherhub) on architecture, hospitality, operations, and human judgment after image-making became automated.
 
 ## How this registry works
@@ -25,7 +27,7 @@ Jair Ibarra is the author of every paper here: the argument, the experience it d
 
 ## Archive and citation
 
-Every release of this registry is archived on Zenodo with a DOI. The three published papers are included as PDFs in `pdf/`, each carrying its fingerprint, license and canonical URL. Citation metadata is in `CITATION.cff` and `.zenodo.json`.
+Every release of this registry is archived on Zenodo with a DOI. First archived release, 2026-09-17: [10.5281/zenodo.22823361](https://doi.org/10.5281/zenodo.22823361). The three published papers are included as PDFs in `pdf/`, each carrying its fingerprint, license and canonical URL. Citation metadata is in `CITATION.cff` and `.zenodo.json`.
 
 ## Author
 
