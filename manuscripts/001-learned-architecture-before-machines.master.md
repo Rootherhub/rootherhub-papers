@@ -1,27 +1,16 @@
-# Paper 001 — I Learned Architecture Before Machines Learned to Imagine It
-
-**Author:** Jair Ibarra · Rootherhub
-**Completed:** July 28, 2026 (master v1.0.1-en)
-**Published here:** September 17, 2026 · self-published by the author
-**Status:** Public · full text below · first publication rights no longer offered
-**Length:** ~1,840 words
-**Manuscript fingerprint (SHA-256):** `eeffc8160facee7b003aa25bdbdc85a59423dce91ec451804815db2d7a2259f8`
-**Canonical record:** https://github.com/Rootherhub/rootherhub-papers/blob/main/papers/001-learned-architecture-before-machines.md
-**License:** CC BY-ND 4.0
-
-## Abstract
-
-An architect who learned the discipline before machines learned to imagine it tells the story of the collapse of his profession's gatekeeping — and argues it is good news. Opening with the twenty-five-year biography of a single material (exposed concrete: loved for its truth, rejected as unfinished, and now sold as a peel-and-stick picture of itself), the essay traces the industrialization of an old pattern the Bilbao Effect literature knows well: the market believes the render is the promise. Drawing on his own years as a prolific renderer, a hospital-bed first encounter with image generation that arrived as rescue rather than threat, and current adoption data showing acceleration without improvement, the author proposes four laws for what replaces the priesthood: instruments of judgment built on constraint, honest math, refusal, and accountability as the product — declaring his own stake in building them, and arguing the laws hold for his competitors too.
-
-## Amendment record
-
-2026-07-28: closing line amended by the author for precision (one word); fingerprint above supersedes `0c019728...` from the initial registration, which remains in git history.
-
-## Verification
-
-`manuscripts/001-learned-architecture-before-machines.master.md` in this repository is the byte-exact approved master file. `sha256sum` on that file reproduces the fingerprint above. The text below is the same manuscript with its internal metadata header removed, for reading.
-
-## Full text
+---
+slug: 001-learned-architecture-before-machines
+title: "I Learned Architecture Before Machines Learned to Imagine It"
+author: jair-ibarra
+version: v1.0-en
+status: PRIVATE
+languages: [en]
+created: 2026-07-28
+approved: 2026-07-28
+purpose: >
+  Generational positioning; theoretical foundation for the configurator launch
+  (001-L fork); BLLA and podcast outreach. Dual-deployment master.
+---
 
 # I Learned Architecture Before Machines Learned to Imagine It
 
@@ -72,7 +61,3 @@ We are casting the priesthood's replacement. This time the market will get to to
 
 ---
 *Jair Ibarra is a Mexican architect and founder of Rootherhub, an AI architecture and hospitality intelligence practice. He is the author of* Sobreviviendo a la Ciudad *(2015).*
-
----
-
-© 2026 Jair Ibarra / Rootherhub LLC. This paper is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). You may copy and redistribute it in any medium or format, including commercially, provided you credit Jair Ibarra / Rootherhub and link to this canonical record. You may not distribute modified versions, excerpts presented as the whole, or translations without written permission. Full license: https://creativecommons.org/licenses/by-nd/4.0/legalcode

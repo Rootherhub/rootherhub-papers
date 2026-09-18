@@ -1,23 +1,18 @@
-# Paper 003 — The Author Was Never in the Folder
-
-**Author:** Jair Ibarra · Rootherhub
-**Completed:** August 8, 2026 (master v1.0-en)
-**Published here:** September 17, 2026 · self-published by the author
-**Status:** Public · full text below · first publication rights no longer offered
-**Length:** ~1,520 words
-**Manuscript fingerprint (SHA-256):** `8fd37ea1364467c11a8d1806a7758f3bb5f43ac8dee0a3f76549ecedbf188452`
-**Canonical record:** https://github.com/Rootherhub/rootherhub-papers/blob/main/papers/003-the-author-was-never-in-the-folder.md
-**License:** CC BY-ND 4.0
-
-## Abstract
-
-A single clause in a construction specification — a builder made to sign that he *understands* a finishing technique before touching the wall — opens an insider's account of where luxury flagship design actually lives. Drawing on years of primary documents crossing his desk as a consultant, builder of AI decision systems, and contractor, the author reports a score that has not missed: across ten brands' document sets, the element that made a store unmistakably *that house* sat in a construction trade every time, and in the renderings never. The essay reads the flagship as two codes negotiating in paper — the house's century of encoded decisions against the law and terroir of each address — a web with no author's chair anywhere in it. Against 2026's luxury correction (money moving from goods to courts, courses, and race weekends; customers whose loyalty survived the exit while the addresses did not), it refuses the fashionable obituary and proposes a genetic reading instead: the folders are inheritance carrying both load-bearing and vestigial genes, and a gene that copies itself across six thousand doors without serving the host has started behaving like a virus. The cure, the author argues, sits in the same folder — for houses, and for the brands becoming houses, willing to read their own genome.
-
-## Verification
-
-`manuscripts/003-the-author-was-never-in-the-folder.master.md` in this repository is the byte-exact approved master file. `sha256sum` on that file reproduces the fingerprint above. The text below is the same manuscript with its internal metadata header removed, for reading.
-
-## Full text
+---
+slug: 003-the-author-was-never-in-the-folder
+title: "The Author Was Never in the Folder"
+author: jair-ibarra
+version: v1.0-en
+status: PRIVATE
+languages: [en]
+created: 2026-08-07
+approved: 2026-08-08
+purpose: >
+  The encoding under the images: insider evidence that flagship identity is
+  authored by documents and municipal law; the 2026 repricing; the genome
+  frame; foundation for the Fashion Boutique DNA layer and BLLA/operator
+  conversations. Dual-deployment master.
+---
 
 # The Author Was Never in the Folder
 
@@ -71,7 +66,3 @@ The signature for understanding is. I plan to keep signing.
 
 ---
 *Jair Ibarra is a Mexican architect and founder of Rootherhub, an AI-driven intelligence practice for architecture and hospitality.*
-
----
-
-© 2026 Jair Ibarra / Rootherhub LLC. This paper is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). You may copy and redistribute it in any medium or format, including commercially, provided you credit Jair Ibarra / Rootherhub and link to this canonical record. You may not distribute modified versions, excerpts presented as the whole, or translations without written permission. Full license: https://creativecommons.org/licenses/by-nd/4.0/legalcode

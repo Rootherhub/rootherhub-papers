@@ -1,23 +1,16 @@
-# Paper 002 — When Everyone Can Design a Hotel, Judgment Becomes the Luxury
-
-**Author:** Jair Ibarra · Rootherhub
-**Completed:** July 28, 2026 (master v1.0-en)
-**Published here:** September 17, 2026 · self-published by the author
-**Status:** Public · full text below · first publication rights no longer offered
-**Length:** ~1,510 words
-**Manuscript fingerprint (SHA-256):** `3c7a2d2bb972e086f565e85f52a01c3db41f72d23f78c74b58a63f68e8965d74`
-**Canonical record:** https://github.com/Rootherhub/rootherhub-papers/blob/main/papers/002-when-everyone-can-design-a-hotel.md
-**License:** CC BY-ND 4.0
-
-## Abstract
-
-AI has collapsed the cost of imagining a hotel to nearly zero: concept imagery that once required a visualization studio and a real budget is now produced in an evening by anyone with a laptop. The author — an architect who welcomes this collapse of professional gatekeeping — argues that the economics of hospitality development did not move with it: median construction costs exceed $200,000 per room, nine of ten projects run over budget, and a rendering carries no information about which concepts survive contact with capital, operations, permits, and place. Drawing on verified industry data, the record of his own firm's estimating software (including the errors it was caught making), and the loss of a boutique hotel to forces no feasibility study priced, the essay makes the case that when options become abundant and stakes hold still, the scarce asset in hospitality is judgment — not as prediction, but as the discipline of structuring projects to survive what cannot be predicted.
-
-## Verification
-
-`manuscripts/002-when-everyone-can-design-a-hotel.master.md` in this repository is the byte-exact approved master file. `sha256sum` on that file reproduces the fingerprint above. The text below is the same manuscript with its internal metadata header removed, for reading.
-
-## Full text
+---
+slug: 002-when-everyone-can-design-a-hotel
+title: "When Everyone Can Design a Hotel, Judgment Becomes the Luxury"
+author: jair-ibarra
+version: v1.0-en
+status: PRIVATE
+languages: [en]
+created: 2026-07-28
+approved: 2026-07-28
+purpose: >
+  Establish the hospitality thesis; position Jair as a decision-system
+  architect; support hotel, operator, investor, and BLLA/summit conversations.
+---
 
 # When Everyone Can Design a Hotel, Judgment Becomes the Luxury
 
@@ -59,7 +52,3 @@ Everyone can design a hotel now. Deciding which one should exist is the luxury.
 
 ---
 *Jair Ibarra is a Mexican architect and founder of Rootherhub, an AI architecture and hospitality intelligence practice.*
-
----
-
-© 2026 Jair Ibarra / Rootherhub LLC. This paper is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). You may copy and redistribute it in any medium or format, including commercially, provided you credit Jair Ibarra / Rootherhub and link to this canonical record. You may not distribute modified versions, excerpts presented as the whole, or translations without written permission. Full license: https://creativecommons.org/licenses/by-nd/4.0/legalcode
