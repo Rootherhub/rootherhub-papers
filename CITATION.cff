@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite a paper from this registry, cite the author, the paper title, the version and the fingerprint, and link the canonical record."
+title: "Rootherhub Papers: Public Registry"
+type: dataset
+authors:
+  - family-names: Ibarra
+    given-names: Jair
+    affiliation: Rootherhub LLC
+license: CC-BY-ND-4.0
+repository-code: https://github.com/Rootherhub/rootherhub-papers
+url: https://rootherhub.com
+date-released: 2026-09-17
+version: 2026.09.17
+keywords:
+  - architecture
+  - hospitality design
+  - generative AI
+  - professional judgment

@@ -23,6 +23,10 @@ As of September 17, 2026 the author self-publishes here. A published paper's ent
 
 Jair Ibarra is the author of every paper here: the argument, the experience it draws on, the judgment, and the final voice are his. AI tools are used as editorial instruments in the process. See [AUTHORSHIP.md](AUTHORSHIP.md) for the disclosure in full.
 
+## Archive and citation
+
+Every release of this registry is archived on Zenodo with a DOI. The three published papers are included as PDFs in `pdf/`, each carrying its fingerprint, license and canonical URL. Citation metadata is in `CITATION.cff` and `.zenodo.json`.
+
 ## Author
 
 Jair Ibarra is a Mexican architect and founder of Rootherhub, an AI architecture and hospitality intelligence practice.
