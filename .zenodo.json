@@ -6,17 +6,39 @@
   "license": "cc-by-nd-4.0",
   "language": "eng",
   "creators": [
-    {"name": "Ibarra, Jair", "affiliation": "Rootherhub LLC"}
+    {
+      "name": "Ibarra, Jair",
+      "affiliation": "Rootherhub LLC",
+      "orcid": "0009-0008-8796-8888"
+    }
   ],
   "description": "<p>Three self-published essays by Jair Ibarra, architect and founder of Rootherhub, with the byte-exact approved manuscripts and their SHA-256 fingerprints. The registry records each paper's completion date, version history and fingerprint so that authorship and priority of the complete text are verifiable from the git history and from this archive.</p><p><b>Paper 001. I Learned Architecture Before Machines Learned to Imagine It</b> (completed 2026-07-28, master v1.0.2-en). An architect who learned the discipline before machines learned to imagine it argues that the collapse of his profession's gatekeeping is good news, and proposes four laws for the instruments of judgment that replace it: constraint, honest math, refusal, and accountability as the product.</p><p><b>Paper 002. When Everyone Can Design a Hotel, Judgment Becomes the Luxury</b> (completed 2026-07-28, master v1.0.1-en). AI collapsed the cost of imagining a hotel to nearly zero; the economics of building one did not move. When options multiply and stakes hold still, the scarce asset in hospitality is judgment, understood as structuring projects to survive what cannot be predicted.</p><p><b>Paper 003. The Author Was Never in the Folder</b> (completed 2026-08-08, master v1.0.1-en). An insider's account, from primary construction documents, of where luxury flagship identity actually lives: in the trades and the paper, never in the renderings. The flagship is read as two codes negotiating, the house's and the address's, and as an inherited genome carrying load-bearing and vestigial genes.</p><p>Each PDF carries its fingerprint, license and canonical URL on page one. Manuscripts in <code>manuscripts/</code> reproduce the fingerprints with <code>sha256sum</code>. Licensed CC BY-ND 4.0.</p>",
   "keywords": [
-    "architecture", "hospitality design", "hotel development", "luxury retail", "flagship stores",
-    "generative AI", "image generation", "professional judgment", "decision systems",
-    "construction documents", "design practice", "Mexico", "Rootherhub"
+    "architecture",
+    "hospitality design",
+    "hotel development",
+    "luxury retail",
+    "flagship stores",
+    "generative AI",
+    "image generation",
+    "professional judgment",
+    "decision systems",
+    "construction documents",
+    "design practice",
+    "Mexico",
+    "Rootherhub"
   ],
   "related_identifiers": [
-    {"identifier": "https://github.com/Rootherhub/rootherhub-papers", "relation": "isSupplementTo", "resource_type": "publication-other"},
-    {"identifier": "https://rootherhub.com", "relation": "isDescribedBy", "resource_type": "other"}
+    {
+      "identifier": "https://github.com/Rootherhub/rootherhub-papers",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://rootherhub.com",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
+    }
   ],
   "notes": "Fingerprints (SHA-256 of the approved master files): 001 v1.0.2-en e7abaf6342e51e7f690d05310197eb361adf83b94e1103054648f90ecdff122e; 002 v1.0.1-en 4af87211282b0e51af329d1046c5d77e1ec407cbb8ff33eb17de63eaf7a3c43f; 003 v1.0.1-en c348c7f16e576df76bc8e771942a623c394c2279f712e2b5df5343515498f794. Prior versions and superseded fingerprints are listed in each paper's amendment record."
 }

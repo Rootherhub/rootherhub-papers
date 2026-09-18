@@ -31,7 +31,7 @@ Every release of this registry is archived on Zenodo with a DOI. First archived 
 
 ## Author
 
-Jair Ibarra is a Mexican architect and founder of Rootherhub, an AI architecture and hospitality intelligence practice.
+Jair Ibarra is a Mexican architect and founder of Rootherhub, an AI architecture and hospitality intelligence practice. ORCID [0009-0008-8796-8888](https://orcid.org/0009-0008-8796-8888).
 
 Inquiries: jair@rootherhub.com · rootherhub.com
 

@@ -6,6 +6,7 @@ authors:
   - family-names: Ibarra
     given-names: Jair
     affiliation: Rootherhub LLC
+    orcid: https://orcid.org/0009-0008-8796-8888
 license: CC-BY-ND-4.0
 doi: 10.5281/zenodo.22823361
 repository-code: https://github.com/Rootherhub/rootherhub-papers
